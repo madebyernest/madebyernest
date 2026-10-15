@@ -3,13 +3,13 @@
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cs,lua,r,php,powershell&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cs,lua,r,php,powershell&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,dart,flutter,dotnet,mysql&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,dart,flutter,dotnet,mysql&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,discord,gmail,obsidian,latex&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,discord,gmail,obsidian,latex&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=pycharm,robloxstudio,visualstudio,vscode,windows&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=pycharm,robloxstudio,visualstudio,vscode,windows&theme=dark" />
 </p>
 
 <hr>
