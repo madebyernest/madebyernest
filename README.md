@@ -1,17 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=madebyernest&color=grey&style=for-the-badge&base=32)
 
-## 🛠️ Languages and Tools
-
-<br>
+## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,git,github,cs,c,html,css,dart,flutter,discord,dotnet,gmail,latex&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cs,lua,r,php,powershell&theme=dark&perline=8" />
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,mysql,obsidian,php,ps,pycharm,r,robloxstudio,visualstudio,vscode,windows&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,dart,flutter,dotnet,mysql&theme=dark&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,discord,gmail,obsidian,latex&theme=dark&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pycharm,robloxstudio,visualstudio,vscode,windows&theme=dark&perline=5" />
 </p>
 
 <hr>
