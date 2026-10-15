@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=madebyernest&color=grey&style=for-the-badge&label=32)
+![](https://komarev.com/ghpvc/?username=madebyernest&color=grey&style=for-the-badge&base=32)
